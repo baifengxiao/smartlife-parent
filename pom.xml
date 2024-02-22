@@ -24,6 +24,7 @@
         <module>smartlife-common</module>
         <module>smartlife-model</module>
         <module>smartlife-service</module>
+        <module>smartlife-gateway</module>
     </modules>
 
     <!--统一管理版本号-->
